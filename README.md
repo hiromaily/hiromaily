@@ -1,6 +1,8 @@
 ### Hi there 👋
 :bowtie: I’m currently working on Blockchain technology.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiromaily)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hiromaily/hiromaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
